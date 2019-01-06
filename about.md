@@ -4,7 +4,7 @@ title: Goutham Subramanian
 permalink: /about/
 ---
 
-Blog posts written on this(https://themostdangerouswritingapp.com). 
+Blog posts written on [this](https://themostdangerouswritingapp.com). 
 
 ### TLDR my life
 
@@ -21,7 +21,7 @@ Worked at:
 * Deloitte Consulting
 * Oracle Corporation
 
-founded trashr.io(https://trashr.io)
+founded [trashr.io](https://trashr.io)
 
 ### Contact me
 
