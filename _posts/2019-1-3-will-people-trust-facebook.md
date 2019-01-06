@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Will People Trust Facebook with Money?
 ---
 
 Facebook is currently under a lot of heat from the press over missteps with regards to privacy and data. Although, people my age, myself included, seem indifferent to their missteps. I believe this is because young people view Facebook solely as a means for messaging people and creating events. Everything else defaults to Instagram.
