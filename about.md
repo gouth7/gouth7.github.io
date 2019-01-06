@@ -1,15 +1,28 @@
 ---
 layout: page
-title: About
+title: Goutham Subramanian
 permalink: /about/
 ---
 
-Some information about you!
+Blog posts written on this(https://themostdangerouswritingapp.com). 
 
-### More Information
+### TLDR my life
 
-A place to include any other types of information that you'd like to include about yourself.
+Interests:
+* Travel
+* EE
+* Sports
+* Politics
+* Crypto
+* Tech
+
+Worked at:
+* Lightyear.io
+* Deloitte Consulting
+* Oracle Corporation
+
+founded trashr.io(https://trashr.io)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Email Me!](mailto:gsubram5@ncsu.edu)
